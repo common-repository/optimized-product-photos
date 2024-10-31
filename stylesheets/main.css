@@ -1,0 +1,15 @@
+#optimized-product-photos {
+    margin-left: -20px;
+}
+
+#optimized-product-photos #optimized-product-photos-iframe {
+    width: 100%;
+    min-height: 600px;
+    border: 0;
+}
+
+@media screen and (max-width: 782px) {
+    #optimized-product-photos {
+        margin-left: -10px;
+    }
+}
